@@ -7,6 +7,7 @@
     "dev": "nodemon",
     "class": "nodemon ./js/class.js",
     "class-extend": "nodemon ./js/class-extend.js",
+    "class-random": "nodemon ./js/class-random.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
